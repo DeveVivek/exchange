@@ -21,7 +21,7 @@
   
   p {
     text-align: center;
-    color: #dedede;
+    color: #faf8f8;
   }
   
   .btn {
@@ -34,6 +34,9 @@
     font-size: 18px;
     border: none;
   }
+  .btn:hover{
+    background: #4790c5;
+  }
   .btn2 {
     color: #fff;
     background: #3f4d9f;
@@ -44,6 +47,9 @@
     font-size: 18px;
     border: none;
     width: 100%;
+  }
+  .btn2:hover{
+    background: #37448a;
   }
   
   .money-img {
